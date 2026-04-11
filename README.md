@@ -81,4 +81,5 @@ This project demonstrates hands-on experience managing Active Directory users an
 ## Summary
 
 This lab demonstrates the ability to manage Active Directory users, automate administrative tasks, and verify configurations in a Windows domain environment.
+
 This project reflects practical experience performing common IT support and system administration tasks in an enterprise Active Directory environment.
