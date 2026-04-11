@@ -55,12 +55,7 @@ This project demonstrates hands-on experience managing user accounts in Active D
 ---
 
 ## Screenshots
-
-### User Creation
-
-## Screenshots  
-
-## Screenshots  
+ 
 
 ### User Creation  
 ![User Creation](users.png)
