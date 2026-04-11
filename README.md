@@ -1,8 +1,9 @@
 # Active Directory User Management Lab
-
+## Project Type  
+Hands-on Active Directory Lab (Practice Labs)
 ## Overview
 
-This project demonstrates hands-on experience managing user accounts in Active Directory using PowerShell and administrative tools in a simulated enterprise environment.
+This project demonstrates hands-on experience managing Active Directory users and groups using PowerShell and administrative tools in a simulated enterprise environment.
 
 ---
 
@@ -67,15 +68,17 @@ This project demonstrates hands-on experience managing user accounts in Active D
 
 ## Key Skills Demonstrated
 
-* Active Directory User Management
-* PowerShell Automation
-* Group Administration
-* Bulk User Provisioning
-* Command-Line Tools
+## Key Skills Demonstrated  
+- Active Directory Administration  
+- PowerShell Scripting  
+- User & Group Management  
+- Identity and Access Management (IAM)  
+- Bulk User Provisioning (CSVDE)  
+- Command-Line Troubleshooting  
 
 ---
 
 ## Summary
 
 This lab demonstrates the ability to manage Active Directory users, automate administrative tasks, and verify configurations in a Windows domain environment.
-
+This project reflects practical experience performing common IT support and system administration tasks in an enterprise Active Directory environment.
