@@ -1,4 +1,4 @@
-# IT Homelab Project
+#Active Directory User Management Lab
 
 ## Overview
 Built a Windows Server environment to practice real IT support and networking tasks.
