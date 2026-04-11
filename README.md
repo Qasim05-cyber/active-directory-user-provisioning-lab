@@ -57,23 +57,12 @@ This project demonstrates hands-on experience managing user accounts in Active D
 ## Screenshots
  
 
-### User Creation  
-![User Creation](users.png)
-
-### Group Creation  
-![Group](Group.png)
-
-### Add Group Members  
-![Members](ADGroupMember.png)
-
-### Member Of Verification  
-![MemberOf](memberof.png)
-
-### DSQuery Verification  
-![DSQuery](Dsquery.png)
-
-### CSV Import  
-![CSV](csv.png)
+<img src="users.png" width="700">
+<img src="Group.png" width="700">
+<img src="ADGroupMember.png" width="700">
+<img src="memberof.png" width="700">
+<img src="Dsquery.png" width="700">
+<img src="csv.png" width="700">
 ---
 
 ## Key Skills Demonstrated
